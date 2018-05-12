@@ -1,0 +1,32 @@
+_repo: The-Attempted-Assassination-of-ex-President-Theodore-Roosevelt_21261
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21261-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Remey, Oliver E.
+    gutenberg_agent_id: '9808'
+    url: http://www.gutenberg.org/2009/agents/9808
+  - agent_name: Cochems, Henry F. (Henry Frederick)
+    birthdate: 1875
+    gutenberg_agent_id: '9809'
+    url: http://www.gutenberg.org/2009/agents/9809
+  - agent_name: Bloodgood, Wheeler P.
+    gutenberg_agent_id: '9810'
+    url: http://www.gutenberg.org/2009/agents/9810
+description: ''
+gutenberg_issued: '2007-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21261'
+  lccn: '13000728'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E740'
+- !lcsh 'Roosevelt, Theodore, 1858-1919'
+title: The Attempted Assassination of ex-President Theodore Roosevelt
+url: http://www.gutenberg.org/ebooks/21261
